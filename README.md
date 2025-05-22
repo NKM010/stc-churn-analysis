@@ -1,4 +1,4 @@
-# stc-churn-analysis
+# STC Churn Analysis Project
 ## Overview  
 This project simulates a real-world churn analysis for a telecom company modeled after **STC (Saudi Telecom Company)**. The goal is to uncover patterns in customer behavior and provide actionable recommendations to reduce churn and improve retention.
 
